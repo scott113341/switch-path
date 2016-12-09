@@ -9,6 +9,9 @@
     "type": "git",
     "url": "https://github.com/staltz/switch-path"
   },
+  "dependencies": {
+    "postinstall-build": "^2.1.3"
+  },
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-core": "^6.7.2",
@@ -22,7 +25,6 @@
     "eslint-plugin-no-class": "^0.1.0",
     "markdox": "^0.1.10",
     "mocha": "^2.4.5",
-    "postinstall-build": "^2.1.3",
     "uglify-js": "^2.6.2"
   },
   "scripts": {
